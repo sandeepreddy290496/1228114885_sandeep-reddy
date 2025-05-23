@@ -1,0 +1,18 @@
+https://docs.google.com/document/d/1SXfPIwDttDk-XP5_mX7YizIuJGQ2vKMX/edit?tab=t.0
+https://docs.google.com/document/d/18-AIrg_JdVT2YnyCqZCBm0MapJIo3igtTFuEixDj5bE/edit?pli=1&tab=t.0
+https://docs.google.com/document/d/1ca2s1zKVgDASs4u8xnQtD6j-idrwtwo16Ib44AVESbM/edit?pli=1&tab=t.0
+https://docs.google.com/document/d/1Lf7Nuw4IOtnwjLmCmZbrs1_kC9i1KBdsyI6V_0mZl5c/edit?tab=t.0
+
+Sandeep Reddy Agumamidi	agumamsa@amazon.com
+amazonuser36@mml.local
+hFxPor02a	https://laas.makemylabs.in/wsm/SDESE-Amazon16052520250508132703?invitation_id=74e16979-3446-4450-b1a5-1be99493fe52&context=True
+
+
+java -version
+sc query jenkins
+java -jar jenkins.war
+
+
+https://drive.google.com/drive/folders/1LwhNov1s1-vHzF9GPAObLSnP9kAvipmw?usp=sharing
+
+
