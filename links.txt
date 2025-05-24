@@ -18,4 +18,6 @@ https://drive.google.com/drive/folders/1LwhNov1s1-vHzF9GPAObLSnP9kAvipmw?usp=sha
 https://docs.google.com/document/d/1-ZyINjFpkTJrgU7N9fVI486ftXK871m_bkRzzI-Enzc/edit?tab=t.0       mongo db installation steps file.
 https://drive.google.com/drive/folders/1vsL_jdQIsTMz92S9s5LDqMrYeDuuwIfx
 
+https://docs.google.com/document/d/1nzKjIgr3C9TcVwyoBSd4knbpx6u2iPVqvWdpCyI2Zmo/edit?tab=t.0           day4file.
+
 
